@@ -15,7 +15,7 @@ print(type(satu))
 print(type(dua))
 
 # membuat tuple
-nama = ('Rima', 'Nopa', 'Utami')
+nama = ('Elsa', 'Nurakida',)
 
 # mengakses indeks ke 1 dari tuple
 print(nama[1])
